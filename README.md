@@ -8,9 +8,6 @@ Abstergo Corp required a system that:
 -> Pushes the image to Docker Hub.
 -> Deploys it to a Kubernetes cluster for production use.
 
-🔗 GitHub Repository
-📁 I used a forked version of a sample application from the original repository and worked on my own repo:
- 👉 https://lnkd.in/gdRQymEi
 
 The app is a Node.js-based Train Schedule Viewer, ideal for demonstrating CI/CD automation.
 
